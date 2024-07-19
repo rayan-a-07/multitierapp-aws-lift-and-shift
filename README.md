@@ -24,7 +24,7 @@ The architecture for this project includes the following components:
 5. **Application Load Balancer (ALB)**: Distributing traffic across EC2 instances.
 6. **Auto Scaling Group**: Automatically scaling the number of instances based on demand.
 
-<img src="/multitierapp-aws-lift-and-shift/vprofile-aws-lift-and-shift.png">
+<img src="vprofile-aws-lift-and-shift.png">
 
 ## Steps
 ### 1. Create Security Groups and Key Pairs
@@ -32,7 +32,7 @@ The architecture for this project includes the following components:
 
 **Key Pairs**: Generate key pairs to enable secure SSH access to your EC2 instances.
 
-<img src="/aws-lift-and-shift/img/ec2.png">
+<img src="img/ec2.png">
 
 ### 2. Launch EC2 Instances
 Launch EC2 instances to host your application. Select the appropriate instance type based on your application’s resource requirements.
