@@ -24,7 +24,7 @@ The architecture for this project includes the following components:
 5. **Application Load Balancer (ALB)**: Distributing traffic across EC2 instances.
 6. **Auto Scaling Group**: Automatically scaling the number of instances based on demand.
 
-<img src="/aws-lift-and-shift/vprofile-aws-lift-and-shift.png">
+<img src="/multitierapp-aws-lift-and-shift/vprofile-aws-lift-and-shift.png">
 
 ## Steps
 ### 1. Create Security Groups and Key Pairs
